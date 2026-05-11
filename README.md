@@ -66,7 +66,7 @@ Run the program:
 python Money_Manager.py
 
 ## Sample Output
-
+```
 ===== Expense Tracker =====
 1. Add Tracker
 2. View Trackers
@@ -102,6 +102,6 @@ Tracker Name: Monthly Expenses
 3. Shopping - ₹700.0
 
 Total = ₹1500.0
-
+```
 ## Author
 ...
