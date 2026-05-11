@@ -14,12 +14,13 @@ Beginner-friendly Python project
 Programming Language: Python 3
 
 ## Concepts Used:
+```
 *Functions
 *Lists
 *Dictionaries
 *Loops
 *Conditional Statements
-
+```
 ## How It Works
 Step 1 – Start Program
 The program displays a menu:
