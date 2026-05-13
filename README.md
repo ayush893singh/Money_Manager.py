@@ -57,7 +57,7 @@ Python Official Website
 
 Step 2
 Save the file as:
-expense_tracker.py
+Money_Manager.py
 
 Step 3
 Open terminal in project folder.
