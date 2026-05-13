@@ -60,7 +60,7 @@ Save the file as:
 Money_Manager.py
 
 Step 3
-Open terminal in project folder.
+Open terminal in folder.
 
 Step 4
 Run the program:
