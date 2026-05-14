@@ -15,11 +15,11 @@ Programming Language: Python 3
 
 ## Concepts Used:
 ```
-*Functions
-*Lists
-*Dictionaries
-*Loops
-*Conditional Statements
+Functions
+Lists
+Dictionaries
+Loops
+Conditional Statements
 ```
 ## How It Works
 Step 1 – Start Program
