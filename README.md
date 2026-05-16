@@ -91,7 +91,7 @@ Expense added successfully!
 
 Expense 3
 Enter item name: Shopping
-Enter amount: 700
+Enter amount: 1200
 Expense added successfully!
 
 ===== All Trackers =====
@@ -100,9 +100,9 @@ Tracker Name: Monthly Expenses
 
 1. Food - ₹500.0
 2. Travel - ₹300.0
-3. Shopping - ₹700.0
+3. Shopping - ₹1200.0
 
-Total = ₹1500.0
+Total = ₹2000.0
 ```
 ## Author
 https://github.com/ayush893singh
