@@ -1,6 +1,5 @@
 trackers = []
 
-
 def add_tracker():
     tracker_name = input("\nEnter tracker name: ")
 
