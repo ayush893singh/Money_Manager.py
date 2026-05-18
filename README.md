@@ -30,24 +30,24 @@ The program displays a menu:
 3. Exit
 
 Step 2 – Add Tracker
-User enters:
+  User enters:
 
-Tracker name
-Expense item name
-Expense amount
+  Tracker name
+  Expense item name
+  Expense amount
 
-The program stores all expenses inside a tracker.
+  The program stores all expenses inside a tracker.
 
 Step 3 – View Trackers
-The program displays:
+  The program displays:
 
-Tracker name
-All expense items
-Expense amounts
-Total spending
+  Tracker name
+  All expense items
+  Expense amounts
+  Total spending
 
 Step 4 – Exit
-Program ends safely.
+  Program ends safely.
 
 ## How to Run
 Method 1 – Using Terminal
